@@ -26,7 +26,6 @@ __Desarrollo Móvil:__
 <br />
 
 ---
-## 🔎 Mis estadisticas:
 <details>
     <summary>🔎 Ver</summary>
     
@@ -34,7 +33,6 @@ __Desarrollo Móvil:__
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDuran09&show_icons=true&theme=tokyonight)
 
-<br />
 
 </details>
     
