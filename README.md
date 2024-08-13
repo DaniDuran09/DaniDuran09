@@ -3,7 +3,7 @@
 ## Soy estudiante y desarrollador de Software
 
 - ⚡ Me gusta estar constantemente aprendiendo cosas nuevas
-- ⚡ Me gusta el desarrollo de aplicaciones android
+- ⚡ Me gusta el desarrollo de aplicaciones para movil
 
 ### Contactame!:
 
