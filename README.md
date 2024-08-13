@@ -27,7 +27,6 @@ __Desarrollo Móvil:__
 
 ---
 <details>
-    <summary>🔎 Ver</summary>
     
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniDuran09&show_icons=true&theme=tokyonight)
 
