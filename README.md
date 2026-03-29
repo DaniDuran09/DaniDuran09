@@ -1,67 +1,78 @@
-### Hola, mi nombre es Daniel
+<h1 align="center">Hola, soy Daniel</h1>
 
-Estudiante universitario y desarrollador de software  
-Enfocado en el desarrollo de aplicaciones móviles con React Native
-
----
-
-### Sobre mí
-
-Soy desarrollador junior con formación técnica en programación y actualmente estudio **Desarrollo de Software Multiplataforma** en la **UTEZ**.  
-Me interesa especialmente el desarrollo de aplicaciones móviles y me encuentro en constante aprendizaje para mejorar mis habilidades y construir soluciones reales.
-
-Actualmente mi principal enfoque es **React Native**, y estoy aprendiendo **Node.js** para complementar mis conocimientos en backend.
+<p align="center">
+Estudiante de Desarrollo de Software Multiplataforma<br/>
+Desarrollador enfocado en aplicaciones móviles
+</p>
 
 ---
 
-### Tecnologías que domino
+## Sobre mí
 
-**Desarrollo móvil:**
+Soy desarrollador junior con formación técnica en programación y actualmente estudio en la UTEZ.  
+Me enfoco en el desarrollo móvil con React Native y también desarrollo aplicaciones nativas con Kotlin.  
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/expo/expo/main/.github/resources/banner.png" width="30" height="30" />
-<br /><br />
-
-**Lenguajes y estilos:**
-
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="30" height="30" />
-<br /><br />
-
-**Herramientas:**
-
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/npm/npm.png" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/terminal/terminal.png" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" width="30" height="30" />
-<br /><br />
+Actualmente estoy aprendiendo Node.js para complementar mis conocimientos en backend.
 
 ---
 
-### Actualmente aprendiendo
+## Desarrollo móvil
 
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/docker/docker.png" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/main/topics/sql/sql.png" width="30" height="30" />
-<br /><br />
-
-Node.js, MongoDB, Docker , bases de datos SQL , así como mejores prácticas y arquitectura de software.
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" width="50" />
+</p>
 
 ---
 
-### Contacto
+## Lenguajes
 
-Correo: **daniel.duran.torres09@gmail.com**
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" />
+</p>
+
+---
+
+## Herramientas
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
+</p>
 
 ---
 
-### GitHub Stats
+## Actualmente aprendiendo
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniDuran09&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
+</p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDuran09&show_icons=true&theme=tokyonight)
+Node.js, MongoDB, Docker, bases de datos SQL y buenas prácticas de arquitectura.
 
 ---
+
+## Contacto
+
+daniel.duran.torres09@gmail.com
+
+---
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniDuran09&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDuran09&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
