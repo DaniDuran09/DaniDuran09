@@ -69,10 +69,6 @@ daniel.duran.torres09@gmail.com
 
 ---
 
-## GitHub Stats
+### GitHub Stats 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniDuran09&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDuran09&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniDuran09&show_icons=true&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDuran09&show_icons=true&theme=tokyonight) ---
