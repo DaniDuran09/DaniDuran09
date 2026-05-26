@@ -9,8 +9,8 @@ Desarrollador enfocado en aplicaciones móviles
 
 ## Sobre mí
 
-Soy desarrollador junior con formación técnica en programación y actualmente estudio en la UTEZ.  
-Me enfoco en el desarrollo móvil con React Native y también desarrollo aplicaciones nativas con Kotlin.  
+Soy desarrollador con formación técnica en programación y actualmente estudio en la UTEZ.  
+Me enfoco en el desarrollo móvil con React Native, desarrollo web con React y también desarrollo aplicaciones nativas con Kotlin.  
 
 Actualmente estoy aprendiendo Node.js para complementar mis conocimientos en backend.
 
