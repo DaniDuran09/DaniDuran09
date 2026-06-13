@@ -1,19 +1,21 @@
-<h1 align="center">Hola, soy Daniel</h1>
+<h1 align="center">Hi, I'm Daniel</h1>
 
 <p align="center">
-Estudiante de Desarrollo de Software Multiplataforma<br/>
-Desarrollador enfocado en aplicaciones móviles
+👨‍💻 Software Developer | 🚀 Full Stack Developer<br/>
+📱 Mobile Apps • 🌐 Web Applications • ⚙️ Backend Services<br/>
+⚛️ Nearly 2 years of experience with React Native<br/>
+🧠 Always learning • 🎯 Seeking new challenges • 📈 Growing every day
 </p>
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy desarrollador de software enfocado en el desarrollo de aplicaciones móviles, web y backend. Cuento con casi 2 años de experiencia trabajando con React Native y experiencia desarrollando soluciones con Node.js. Me apasiona aprender nuevas tecnologías, enfrentar nuevos retos y buscar oportunidades que impulsen mi crecimiento profesional y técnico.
+I'm a software developer focused on mobile, web, and backend development. I have nearly 2 years of experience working with React Native, along with experience building backend solutions using Node.js. I'm passionate about learning new technologies, taking on new challenges, and pursuing opportunities that help me grow both professionally and technically.
 
 ---
 
-## Desarrollo móvil
+## Mobile Development
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" />
@@ -25,7 +27,7 @@ Soy desarrollador de software enfocado en el desarrollo de aplicaciones móviles
 
 ---
 
-## Desarrollo backend
+## Backend Development
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" />
@@ -33,12 +35,12 @@ Soy desarrollador de software enfocado en el desarrollo de aplicaciones móviles
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" />
 </p>
 
-Node.js, MongoDB,  PostgreSQL y buenas prácticas de arquitectura.
+Node.js, MongoDB, PostgreSQL, and software architecture best practices.  
 Domain-Driven Design (DDD)
 
 ---
 
-## Lenguajes
+## Languages
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" />
@@ -50,7 +52,7 @@ Domain-Driven Design (DDD)
 
 ---
 
-## Herramientas
+## Tools
 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
@@ -64,16 +66,16 @@ Domain-Driven Design (DDD)
 
 ---
 
-## Contacto
+## Contact
 
 daniel.duran.torres09@gmail.com
 
 ---
 
-### GitHub Stats 
+### GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniDuran09&show_icons=true&theme=tokyonight) 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=DaniDuran09&show_icons=true&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDuran09&show_icons=true&theme=tokyonight) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaniDuran09&show_icons=true&theme=tokyonight)
 
 ---
