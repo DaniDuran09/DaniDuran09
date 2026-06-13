@@ -9,10 +9,7 @@ Desarrollador enfocado en aplicaciones móviles
 
 ## Sobre mí
 
-Soy desarrollador con formación técnica en programación y actualmente estudio en la UTEZ.  
-Me enfoco en el desarrollo móvil con React Native, desarrollo web con React y también desarrollo aplicaciones nativas con Kotlin.  
-
-Actualmente estoy aprendiendo Node.js para complementar mis conocimientos en backend.
+Soy desarrollador de software enfocado en el desarrollo de aplicaciones móviles, web y backend. Cuento con casi 2 años de experiencia trabajando con React Native y experiencia desarrollando soluciones con Node.js. Me apasiona aprender nuevas tecnologías, enfrentar nuevos retos y buscar oportunidades que impulsen mi crecimiento profesional y técnico.
 
 ---
 
