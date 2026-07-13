@@ -1,6 +1,7 @@
 <h1 align="center">Hi, I'm Daniel</h1>
 
 <p align="center">
+20 yo
 👨‍💻 Software Developer | 🚀 Full Stack Developer<br/>
 📱 Mobile Apps • 🌐 Web Applications • ⚙️ Backend Services<br/>
 ⚛️ Nearly 2 years of experience with React Native<br/>
